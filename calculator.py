@@ -1,6 +1,5 @@
-print ('hello world')
-print ('Hello World')
- 
+print ("Hello World")
+
 # Step 1: Ask the user to input the first number
 # We're using 'float()' to make sure our numbers can have decimals too. Fancy, right? ✨
 num1 = float(input("Enter the first number: "))
